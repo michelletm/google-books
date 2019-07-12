@@ -6,6 +6,7 @@ function App() {
   return (
     <div>
       <h1>Google Books Here</h1>
+      <Card />
     </div>
   );
 }
